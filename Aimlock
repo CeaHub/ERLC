@@ -15,7 +15,7 @@ local Inset = GuiService:GetGuiInset()
 --// Options \\--
 getgenv().Options = {
     Enabled = true,
-    TeamCheck = true,
+    TeamCheck = false,
     Triggerbot = false,
     Smoothness = false,
     AimPart = "Head",
